@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dilanshjain/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/dilanshjain/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/dilanshjain/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
