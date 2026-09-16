@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/dilanshjain/leetcode-solution/tree/master/0682-baseball-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dilanshjain/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Greedy
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/dilanshjain/leetcode-solution/tree/master/0143-reorder-list) |
+| [0682-baseball-game](https://github.com/dilanshjain/leetcode-solution/tree/master/0682-baseball-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dilanshjain/leetcode-solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/dilanshjain/leetcode-solution/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
