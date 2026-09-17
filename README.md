@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/dilanshjain/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/dilanshjain/leetcode-solution/tree/master/0682-baseball-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dilanshjain/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Greedy
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/dilanshjain/leetcode-solution/tree/master/0143-reorder-list) |
+| [0503-next-greater-element-ii](https://github.com/dilanshjain/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/dilanshjain/leetcode-solution/tree/master/0682-baseball-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/dilanshjain/leetcode-solution/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
@@ -88,5 +90,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/dilanshjain/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/dilanshjain/leetcode-solution/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
