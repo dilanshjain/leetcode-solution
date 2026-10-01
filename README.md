@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/dilanshjain/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dilanshjain/leetcode-solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/dilanshjain/leetcode-solution/tree/master/0143-reorder-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/dilanshjain/leetcode-solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/dilanshjain/leetcode-solution/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/dilanshjain/leetcode-solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/dilanshjain/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/dilanshjain/leetcode-solution/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/dilanshjain/leetcode-solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/dilanshjain/leetcode-solution/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dilanshjain/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Greedy
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/dilanshjain/leetcode-solution/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/dilanshjain/leetcode-solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/dilanshjain/leetcode-solution/tree/master/0155-min-stack) |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/dilanshjain/leetcode-solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/dilanshjain/leetcode-solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 <!---LeetCode Topics End-->
