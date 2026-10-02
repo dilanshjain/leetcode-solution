@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/dilanshjain/leetcode-solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/dilanshjain/leetcode-solution/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/dilanshjain/leetcode-solution/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/dilanshjain/leetcode-solution/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/dilanshjain/leetcode-solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/dilanshjain/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/dilanshjain/leetcode-solution/tree/master/0682-baseball-game) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/dilanshjain/leetcode-solution/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/dilanshjain/leetcode-solution/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/dilanshjain/leetcode-solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/dilanshjain/leetcode-solution/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/dilanshjain/leetcode-solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/dilanshjain/leetcode-solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 <!---LeetCode Topics End-->
