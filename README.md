@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/dilanshjain/leetcode-solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/dilanshjain/leetcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dilanshjain/leetcode-solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/dilanshjain/leetcode-solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/dilanshjain/leetcode-solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/dilanshjain/leetcode-solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/dilanshjain/leetcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/dilanshjain/leetcode-solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/dilanshjain/leetcode-solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/dilanshjain/leetcode-solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/dilanshjain/leetcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/dilanshjain/leetcode-solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/dilanshjain/leetcode-solution/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/dilanshjain/leetcode-solution/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/dilanshjain/leetcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/dilanshjain/leetcode-solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
