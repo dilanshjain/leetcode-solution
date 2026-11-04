@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/dilanshjain/leetcode-solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/dilanshjain/leetcode-solution/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/dilanshjain/leetcode-solution/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/dilanshjain/leetcode-solution/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/dilanshjain/leetcode-solution/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dilanshjain/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/dilanshjain/leetcode-solution/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/dilanshjain/leetcode-solution/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/dilanshjain/leetcode-solution/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dilanshjain/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/dilanshjain/leetcode-solution/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/dilanshjain/leetcode-solution/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/dilanshjain/leetcode-solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/dilanshjain/leetcode-solution/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,4 +245,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/dilanshjain/leetcode-solution/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dilanshjain/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/dilanshjain/leetcode-solution/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/dilanshjain/leetcode-solution/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/dilanshjain/leetcode-solution/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
